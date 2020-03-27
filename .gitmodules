@@ -1,0 +1,3 @@
+[submodule "Data-Aquisition"]
+	path = Data-Aquisition
+	url = https://github.com/yhzmiao/Data-Aquisition.git
