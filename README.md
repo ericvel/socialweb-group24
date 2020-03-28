@@ -1,5 +1,6 @@
 # Super Bowl 2020 analysis notebooks
 
+## Installation
 1. Make sure you have Python 3.7 installed
 
 2. Create a virtual environment at the root folder of this repo
@@ -44,3 +45,7 @@ pip install monkeylearn
 ```
 
 5. Run `jupyter notebook` to access and run the notebooks
+
+## Notes
+
+The notebooks assume the datasets are stored in a folder called *Datasets* in the root of this project.
